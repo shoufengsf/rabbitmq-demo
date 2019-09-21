@@ -3,7 +3,7 @@
 
 ### 概览信息
 
-![](https://github.com/shoufengsf/rabbitmq-demo/blob/master/images/RabbitMQ%E7%AB%AF%E5%8F%A3.png)
+![](https://github.com/shoufengsf/rabbitmq-demo/blob/master/images/RabbitMQManage%E6%A6%82%E8%A7%88%E4%BF%A1%E6%81%AF.png)
 
 ### RabbitMQ三个端口的作用
 
@@ -13,5 +13,5 @@
 
 25672：做集群的端口
 
-![](https://github.com/shoufengsf/rabbitmq-demo/blob/master/images/RabbitMQManage%E6%A6%82%E8%A7%88%E4%BF%A1%E6%81%AF.png)
+![](https://github.com/shoufengsf/rabbitmq-demo/blob/master/images/RabbitMQ%E7%AB%AF%E5%8F%A3.png)
 
