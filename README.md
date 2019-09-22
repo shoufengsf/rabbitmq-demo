@@ -15,3 +15,11 @@
 
 ![](https://github.com/shoufengsf/rabbitmq-demo/blob/master/images/RabbitMQ%E7%AB%AF%E5%8F%A3.png)
 
+### 获取消息
+
+![](https://github.com/shoufengsf/rabbitmq-demo/blob/master/images/%E9%80%9A%E8%BF%87rabbitmanagement%E6%9F%A5%E7%9C%8B%E6%B6%88%E6%81%AF.png)
+
+
+
+
+
