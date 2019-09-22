@@ -10,6 +10,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.concurrent.TimeoutException;
 
 /**
+ * 发布者
  * @author shoufeng
  */
 public class Send {

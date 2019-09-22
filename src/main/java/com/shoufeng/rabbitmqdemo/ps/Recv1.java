@@ -8,6 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.concurrent.TimeoutException;
 
 /**
+ * 订阅者
  * @author shoufeng
  */
 public class Recv1 {
