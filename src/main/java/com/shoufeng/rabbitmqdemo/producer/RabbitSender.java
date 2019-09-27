@@ -4,6 +4,8 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+
 
 @Component
 public class RabbitSender {
@@ -15,6 +17,11 @@ public class RabbitSender {
 	//发送消息方法调用
 	public void sendOrder(String message) throws Exception {
 		rabbitTemplate.convertAndSend(message);
+	}
+
+	@PostConstruct
+	public void sendTest() {
+		rabbitTemplate.convertAndSend("myTopicExchange", "myRoutingKey", "发送测试");
 	}
 	
 }
